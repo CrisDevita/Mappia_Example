@@ -217,7 +217,7 @@
 				<Title>nuovo_layer_temporaneo</Title>
 				<Abstract>GH:nuovo_layer_temporaneo ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="17.304619889882716" miny="40.37124133787099" maxx="17.305268922245084" maxy="40.37174649721124"></LatLonBoundingBox>
