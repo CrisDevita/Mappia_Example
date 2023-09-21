@@ -197,7 +197,7 @@
 				<Title>parco_saturo_32633</Title>
 				<Abstract>GH:parco_saturo_32633 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/CrisDevita/Mappia_Example/releases/download/Map_Download/parco_saturo_32633.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="17.303027768283222" miny="40.36948703848023" maxx="17.309166950470782" maxy="40.37393128751732"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>nuovo_layer_temporaneo</Title>
 				<Abstract>GH:nuovo_layer_temporaneo ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="17.304619889882716" miny="40.37124133787099" maxx="17.305268922245084" maxy="40.37174649721124"></LatLonBoundingBox>
